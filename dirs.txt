@@ -1,0 +1,5 @@
+.git
+duo
+promise
+require
+stdin

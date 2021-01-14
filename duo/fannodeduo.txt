@@ -1,0 +1,12 @@
+:+1,/^=\+ /-1 d |let @"="{{{\n".system('lsEachtab xuekoa/duo/nodeduo.*fan')."}}}\n" |norm P
+{{{
+     1	~/xuekoa/duo/nodeduofzs.fan	主线程被卡
+     2	~/xuekoa/duo/nodeduomicro.fan	eventloop queue
+     3	~/xuekoa/duo/nodeduoqjbl.fan	微任务宏任务
+     4	~/xuekoa/duo/nodeduoque.fan	webworker耗时计算
+     5	~/xuekoa/duo/nodeduoseti.fan	单线程全局变量
+     6	~/xuekoa/duo/nodeduowwhs.fan	类比解释非阻塞
+     7	~/xuekoa/duo/nodeduozjc.fan	
+     8	~/xuekoa/duo/nodeduozxkz.fan	setTime和setImme区别
+}}}
+= 

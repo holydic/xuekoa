@@ -1,0 +1,16 @@
+
+js的单进程setime等循环，回调，组合实现了异步
+一个chrome下载的同步？spiimg
+链式调用
+以前的闭包文
+以前的手机写js调试
+
+* 调试→短语智语→markdown写法→调试demon→koa的demon
+cookies,表单koa-body，文件上传koa-body或koa-multer ，重定向，中间件栈异步合成
+听用，路由 accepts 
+看下async
+
+Koa 中间件的执行顺序 - Rogn - 博客园: https://www.cnblogs.com/lfri/p/11936520.html
+Koa封装的ctx对象具体详解_koa: https://www.sohu.com/a/379175365_100175238
+Koa基础：Koa的基础介绍 - 简书: https://www.jianshu.com/p/8d5006877960?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+
